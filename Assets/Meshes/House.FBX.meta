@@ -83,6 +83,10 @@ ModelImporter:
     100154: Wall012
     100156: Wall013
     100158: Wall014
+    100160: GarageRoof
+    100162: HouseCeilingPanel_F1
+    100164: HouseCeilingPanel_F2
+    100166: HouseRoof
     400000: Balcony_Ground
     400002: BiFoldDoor001
     400004: BiFoldDoor002
@@ -163,6 +167,10 @@ ModelImporter:
     400154: Wall012
     400156: Wall013
     400158: Wall014
+    400160: GarageRoof
+    400162: HouseCeilingPanel_F1
+    400164: HouseCeilingPanel_F2
+    400166: HouseRoof
     2100000: No Name
     2100002: Inside
     2100004: HouseGround
@@ -248,6 +256,10 @@ ModelImporter:
     2300152: Wall012
     2300154: Wall013
     2300156: Wall014
+    2300158: GarageRoof
+    2300160: HouseCeilingPanel_F1
+    2300162: HouseCeilingPanel_F2
+    2300164: HouseRoof
     3300000: Balcony_Ground
     3300002: BiFoldDoor001
     3300004: BiFoldDoor002
@@ -327,6 +339,10 @@ ModelImporter:
     3300152: Wall012
     3300154: Wall013
     3300156: Wall014
+    3300158: GarageRoof
+    3300160: HouseCeilingPanel_F1
+    3300162: HouseCeilingPanel_F2
+    3300164: HouseRoof
     4300000: Railing001
     4300002: Balcony_Ground
     4300004: House_Ground
@@ -406,6 +422,11 @@ ModelImporter:
     4300152: Box008
     4300154: Box009
     4300156: Box010
+    4300158: HouseCeilingPanel_F1
+    4300160: HouseCeilingPanel_F2
+    4300162: GarageRoof
+    4300164: HouseRoof
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -454,9 +475,9 @@ ModelImporter:
     preserveHierarchy: 0
     indexFormat: 0
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
+    secondaryUVAreaDistortion: 15
     secondaryUVHardAngle: 88
-    secondaryUVPackMargin: 4
+    secondaryUVPackMargin: 64
     useFileScale: 1
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
